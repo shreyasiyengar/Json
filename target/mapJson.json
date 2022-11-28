@@ -1,0 +1,25 @@
+{
+  "Key1" : "value2",
+  "key2" : "value2",
+  "booleanTrue" : true,
+  "booleanFalse" : false,
+  "array" : [ "1", "2", "3", "4" ],
+  "arrayObject" : [ {
+    "id" : 1,
+    "name" : "thanu",
+    "lastname" : "hello"
+  }, {
+    "id" : 2,
+    "name" : "shreyas",
+    "lastname" : "ïyengar"
+  } ],
+  "nestedObject" : {
+    "id" : 1,
+    "name" : "thanu",
+    "lastname" : "hello"
+  },
+  "Ïnterger" : 1,
+  "valueNull" : null,
+  "list" : [ "1", "2", "3" ],
+  "date" : "2022-11-23T15:09:54.751"
+}
